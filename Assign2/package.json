@@ -1,0 +1,25 @@
+{
+  "name": "assign2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANITA-0604/Blockchain-and-Fintech.git"
+  },
+  "author": "anita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANITA-0604/Blockchain-and-Fintech/issues"
+  },
+  "homepage": "https://github.com/ANITA-0604/Blockchain-and-Fintech#readme",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.0.8",
+    "nuxeo": "^2.2.1"
+  }
+}
